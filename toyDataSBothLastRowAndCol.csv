@@ -1,0 +1,12 @@
+Sample,Gene1,Gene2,Gene3,Gene4,Gene5,Type
+1_A,100,432,22,253,415,sampleTypeA
+2_A,256,36,85,112,417,sampleTypeB
+3_A,113,576,26,76,373,sampleTypeC
+4_A,76,47,36,97,210,sampleTypeA
+5_A,34,12,34,45,211,sampleTypeA
+6_A,0,8,896,13,110,sampleTypeB
+7_A,24,11,26,96,142,sampleTypeC
+8_A,487,6,345,35,143,sampleTypeC
+9_A,224,30,117,18,322,sampleTypeC
+10_A,53,76,32,86,17,sampleTypeA
+Type,geneTypeA,geneTypeA,geneTypeB,geneTypeB,geneTypeA,filler 

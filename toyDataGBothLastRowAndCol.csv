@@ -1,0 +1,12 @@
+Gene,Sample1,Sample2,Sample3,Sample4,Sample5,Type
+Gene1,100,432,22,253,415,sampleTypeA
+Gene2,256,36,85,112,417,sampleTypeB
+Gene3,113,576,26,76,373,sampleTypeC
+Gene4,76,47,36,97,210,sampleTypeA
+Gene5,34,12,34,45,211,sampleTypeA
+Gene6,0,8,896,13,110,sampleTypeB
+Gene7,24,11,26,96,142,sampleTypeC
+Gene8,487,6,345,35,143,sampleTypeC
+Gene9,224,30,117,18,322,sampleTypeC
+Gene10,53,76,32,86,17,sampleTypeA
+Type,geneTypeA,geneTypeA,geneTypeB,geneTypeB,geneTypeA, filler
