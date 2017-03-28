@@ -121,7 +121,7 @@ ui <- fluidPage(
                  tags$h1("File Formatting Issues", style = "color:darkblue"),
                  tags$p(" It is anticipated that most issues that arise while trying to use this application will be related
                         to file formatting. A very specific file format is required. This format has several variations, 
-                        depending on the type of data included in the file. The figures below illustrate accepatable file formats, 
+                        depending on the type of data included in the file. The figures below illustrate acceptable file formats, 
                         as they would appear in a spreadsheet program (such as Excel) before being coverted into one of the accepted
                         file formats (.csv, .tsv, or .txt).", style="font-size:20px"),
                  tags$img(height = 443, width = 904, src = "Permitted.PNG"),
